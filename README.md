@@ -14,6 +14,9 @@ Project ini mengimplementasikan model **GAN (Generative Adversarial Network)** y
 Model dilatih secara adversarial hingga Generator mampu menghasilkan gambar yang menyerupai data asli.
 
 Dataset yang digunakan adalah **Anime Face Dataset** dari Kaggle (~63.000 gambar wajah anime).
+```bash
+https://www.kaggle.com/datasets/splcher/animefacedataset/data
+```
 
 ---
 
