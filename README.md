@@ -61,3 +61,10 @@ Clone repository ini:
 ```bash
 git clone https://github.com/yumairai/GAN_Image_Generation.git
 cd gan-anime-generator
+```
+
+Instalasi seluruh library dilakukan menggunakan perintah berikut:
+```bash
+pip install torch torchvision numpy pillow matplotlib
+```
+
